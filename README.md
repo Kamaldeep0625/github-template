@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Kamaldeep0625/github-template/generate">
-    <img width="100%" src="https://imgur.com/a/DTuvEEE" alt="@Kamaldeep0625/github-template's">
+    <img width="100%" src="https://imgur.com/a/DTuvEEE.png" alt="@Kamaldeep0625/github-template's">
   </a>
   <br>
   <a href="https://github.com/Kamaldeep0625/github-template/issues">
